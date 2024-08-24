@@ -10,3 +10,5 @@ Objective of the project
 Tools used in the project 
 --
 MySQL,Datagrip,Excel
+
+PowerPoint Link https://1drv.ms/p/s!AlGy8Iuu_bkXgsFtEQObV0ZMa2p2gw?e=ZjFV94
