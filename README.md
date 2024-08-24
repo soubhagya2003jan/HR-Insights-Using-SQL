@@ -7,5 +7,5 @@ Objective of the project
 - The project aims to identify patterns and insights related to employee attrition, performance, satisfaction, and compensation, while leveraging advanced SQL techniques such as window functions, aggregate functions, and subqueries.
 - The ultimate goal is to provide actionable insights that can improve HR strategies, optimize workforce management, and enhance overall organizational effectiveness.
 
-Tools used in the project <b/ r>
+Tools used in the project <b/ >
 MySQL,Datagrip,Excel
